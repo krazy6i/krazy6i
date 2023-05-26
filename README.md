@@ -2,8 +2,8 @@
 
 I am Sachin, currently working as a Software Engineer at Upskillist (https://www.upskillist.com/). I am a Front-End Developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rajath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajath-acharya-068194135/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/rajath-acharya-068194135/))
-[![Gmail Badge](https://img.shields.io/badge/-rajath365@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajath365@gmail.com)](mailto:rajath365@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-n-s-8a577713b/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/sachin-n-s-8a577713b/))
+[![Gmail Badge](https://img.shields.io/badge/-nssachin07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nssachin07@gmail.com)](mailto:nssachin07@gmail.com)
 
 ## ⚡ Technologies
 
